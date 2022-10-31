@@ -1,4 +1,4 @@
-
+<<<< new project done>>>>
 	"you done the great job"
         " Thank you!"
 	Scanner sc=new Scanner(System.in);
